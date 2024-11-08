@@ -1,5 +1,5 @@
 # Tic-tac-toe
-1 vs 1 
+1 vs 1 /n
 1 vs computer (easy)
 1 vs computer (hard)
 ## Project Video
